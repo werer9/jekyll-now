@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Introduction
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I am an Engineering/Arts conjoint student at The University of Auckland.
+I currently major in Chinese and specialise in Computer Systems Engineering.
+Here I will talk about topics that are of interest to me such as language learning, culture, history or technology.
+I may also write something a little different every now and again.
