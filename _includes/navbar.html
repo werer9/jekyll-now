@@ -1,14 +1,14 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-  <a class="navbar-brand" href="/">Caelan Murch</a>
+<nav class="navbar navbar-expand-lg navbar-dark fixed-top bg-dark px-5">
+  <a class="navbar-brand" href="/"><h1 class="font-weight-bold">Caelan Murch</h1></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
 
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav mr-auto">
+    <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
       {% for item in site.data.navbar %}
       <li class="nav-item">
-        <a class="nav-link" href="{{item.link}}"> {{item.name}} </a>
+        <a class="nav-link font-weight-bold" style="font-size: 1.5em" href="{{item.link}}"> {{item.name}} </a>
       </li>
       {% endfor %}
   </div>
