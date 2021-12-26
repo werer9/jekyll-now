@@ -1,8 +1,17 @@
 nav {
-	/*opacity: 0.85;*/
+	opacity: 0.85;
 	box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
 }
 
 #home {
 	box-shadow: inset 0 15px 20px rgba(0, 0, 0, 0.3);
+}
+
+th, td {
+	padding: 10px;
+}
+
+.post img {
+	max-width: 20%;
+	height: auto;
 }
