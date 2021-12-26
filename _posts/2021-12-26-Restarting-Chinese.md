@@ -72,6 +72,12 @@ I started watching Chinese dramas for several hours a day, learning new sentence
 Anki and reading the news in Chinese. I also began tracking my hours spent in Chinese to keep me accountable. 
 However, towards the end of lockdown, University got busy, and I have since stopped doing all of this.
 
+This time period was by far the most productive period in my Chinese learning journey. My listening comprehension
+and overall reading comprehension improved rapidly, and I began to pick up some words and grammar points
+without even thinking about it. This also had the unfortunate effect of making me realise how little I knew
+and how much further I had to go. Yet, it was at this point that I realised how I will be able to achieve a high level
+of comprehension in the language and eventually fluency.
+
 ## My Future with Chinese
 
 This summer is looking to be quite busy and intense. I am starting to go to the gym and exercise regularly, 
