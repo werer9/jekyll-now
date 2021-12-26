@@ -63,7 +63,7 @@ decks to memorise vocabulary for my classes and began using Remembering the Hanz
 Chinese Characters. I then started using a premade Anki deck with lots of example Chinese sentences and learning to
 understand them better. However, I still wasn't spending much time with the language. 
 I eventually changed my phone and laptop languages to Chinese. However, I wasn't making many improvements. 
-However, it became more apparent that learning this language would require a lot of 
+It became more apparent that learning this language would require a lot of 
 investment and many years of exposure.
 
 This year, Auckland went into a four-month lockdown, and I had too much time on my hands. 
