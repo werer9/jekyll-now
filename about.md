@@ -47,7 +47,7 @@ Systems Engineering and majoring in Chinese.
  * Wrote a flappy bird clone using a Cyclone III FPGA that used a mouse for the game controls and a VGA display for the game display
 
 ## Volunteer Experiece
-**Events Officer (2021), President (2022)**<br>
+**President (2022), Events Officer (2021)**<br>
 **Mandarin English Exchange Program (The University of Auckland)**<br>
 *2021-2022*
  * Organised language exchange events for Mandarin language exchange
